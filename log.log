@@ -1,0 +1,13 @@
+db_file.py[LINE:22]# telegramm_bot.view.db_runner_init WARNING  [2018-09-16 13:53:47,832]  connect with DB is ok
+view.py[LINE:115]# telegramm_bot.view.test_type INFO     [2018-09-16 13:53:57,689]  testing types of massages, chat_id: 563019151, first_name: Ludmila | log method: logging with f-string
+db_file.py[LINE:39]# telegramm_bot.view.insert_runner INFO     [2018-09-16 13:53:57,694]  insert_runner is ok, chat_id: 563019151, first_name: Ludmila | log method: logging with f-string
+view.py[LINE:44]# telegramm_bot.view.text_start INFO     [2018-09-16 13:53:57,774]  user entered "Start", chat_id: 563019151, first_name: Ludmila | log method: logging with f-string
+view.py[LINE:115]# telegramm_bot.view.test_type INFO     [2018-09-16 13:53:58,862]  testing types of massages, chat_id: 563019151, first_name: Ludmila | log method: logging with f-string
+view.py[LINE:51]# telegramm_bot.view.text_circle INFO     [2018-09-16 13:53:58,863]  user entered "Circle", chat_id: 563019151, first_name: Ludmila | log method: logging with f-string
+db_file.py[LINE:39]# telegramm_bot.view.insert_runner INFO     [2018-09-16 13:53:58,867]  insert_runner is ok, chat_id: 563019151, first_name: Ludmila | log method: logging with f-string
+view.py[LINE:115]# telegramm_bot.view.test_type INFO     [2018-09-16 13:54:00,146]  testing types of massages, chat_id: 563019151, first_name: Ludmila | log method: logging with f-string
+view.py[LINE:60]# telegramm_bot.view.text_stop INFO     [2018-09-16 13:54:00,147]  user entered "Stop", chat_id: 563019151, first_name: Ludmila | log method: logging with f-string
+db_file.py[LINE:39]# telegramm_bot.view.insert_runner INFO     [2018-09-16 13:54:00,151]  insert_runner is ok, chat_id: 563019151, first_name: Ludmila | log method: logging with f-string
+view.py[LINE:85]# telegramm_bot.view.circle_time INFO     [2018-09-16 13:54:00,385]  calculate circle time, chat_id: 563019151, first_name: Ludmila | log method: logging with f-string
+view.py[LINE:103]# telegramm_bot.view.calculate_run_time INFO     [2018-09-16 13:54:00,610]  calculate run time, chat_id: 563019151, first_name: Ludmila | log method: logging with f-string
+view.py[LINE:107]# telegramm_bot.view.calculate_run_time INFO     [2018-09-16 13:54:00,610]  set null values, chat_id: 563019151, first_name: Ludmila | log method: logging with f-string

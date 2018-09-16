@@ -1,0 +1,7 @@
+.idea
+__pycache__
+venv
+.pytest_cache/
+config.ini
+db_runner.sqlite
+Procfile
